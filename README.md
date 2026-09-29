@@ -25,6 +25,7 @@ Live product: https://myverif-id.base44.app
 
 ## Contents
 
+- [Getting started (welcome guide)](./GETTING-STARTED.md)
 - [How content forensics works](./content-forensics.md)
 - [Certificates and public verification](./certificates.md)
 
